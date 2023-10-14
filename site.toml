@@ -5,6 +5,7 @@
 # DO NOT CHANGE THIS VALUE. The deploy script relies on the site being deployed to the
 # "site" directory.
 name = "site"
+theme = "dark"
 
 # This page should be the root of your website. It's important.
-page = "<your Notion share URL here>"
+page = "https://cleanenergy.notion.site/Portfolio-dbd4fb2b20af4f54ac6d03dd5fd47566"
